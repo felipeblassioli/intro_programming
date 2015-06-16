@@ -14,6 +14,7 @@ Write a program that:
   6. Initializes a 100 element array to contain randomized integers between 1 and 100;  outputs the values in array order; sorts the array and outputs the resulting sorted values.
 
   7. A program that accepts a sorted array of numbers and a value to search and:
-    - Performs a linear search and prints "FOUND at index = <index> with <count> elements tested" if the value exists in the array or "NOT FOUND"
-    - Performs a binary search and prints "FOUND at index = <index> with <count> elements tested" if the values exists in the array or "NOT FOUND"
+    - Performs a linear search and prints "FOUND at index = {index} with {count} elements tested" if the value exists in the array or "NOT FOUND"
+    - Performs a binary search and prints "FOUND at index = {index} with {count} elements tested" if the values exists in the array or "NOT FOUND"
 
+  8. (Counting Words) A program that reads a text file and displays each word's count, that is the how many times the word occurred in the text.
